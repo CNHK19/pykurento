@@ -63,5 +63,4 @@ class Room(Base):
 
     return pipeline
 
-
 Base.metadata.create_all(engine)
